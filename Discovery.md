@@ -1,8 +1,8 @@
 ---
 title: "Sphinx.be-x"
 tagline: "Hello, World."
-theme_color: "#f26daa"
-git: "https://github.com/deta/deta"
+theme_color: "#f288aa"
+git: "https://github.com/navibator/sphinx"
 homepage: "https://deta.space"
 ---
 
