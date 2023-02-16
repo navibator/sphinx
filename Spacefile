@@ -1,0 +1,9 @@
+# Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
+v: 0.1
+icon: ./sphinx.png
+app_name: "Sphinx"
+micros:
+  - name: sphinx
+    src: ./
+    engine: nodejs16
+    primary: true
